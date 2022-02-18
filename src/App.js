@@ -4,7 +4,7 @@ import Trending from './components/Trending'
 
 const App = () => {
   return (
-    <div>
+    <div className="container">
       <Header />
         <Trending />
     </div>
